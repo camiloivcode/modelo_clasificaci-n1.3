@@ -1,0 +1,22 @@
+# Ignorar carpeta del aplicativo Gradio
+/app_gradio/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignorar archivos de entorno virtual
+.venv/
+env/
+venv/
+
+# Ignorar archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar modelos entrenados
+/modelo_clasificador_final/

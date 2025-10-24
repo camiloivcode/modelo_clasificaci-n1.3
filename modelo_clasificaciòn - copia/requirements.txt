@@ -1,0 +1,9 @@
+# Requisitos para entrenamiento y aplicación Gradio
+transformers==4.35.2
+datasets==2.16.1
+scikit-learn==1.3.2
+pandas==2.1.1
+numpy==1.26.0
+torch==2.1.0
+gradio==4.9.0
+openpyxl==3.1.2
