@@ -28,4 +28,4 @@ config_data = {
 with open(os.path.join(model_save_path, "config_categorias.json"), "w", encoding="utf-8") as f:
     json.dump(config_data, f, indent=2, ensure_ascii=False)
 
-print("✅ Archivo config_categorias.json generado correctamente.")
+print("Archivo config_categorias.json generado correctamente.")
